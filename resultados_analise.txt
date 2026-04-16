@@ -1,0 +1,17 @@
+RELATÓRIO AUTOMATIZADO DE SENTIMENTOS
+----------------------------------------
+Texto: Adorei o perfume!
+Resultado: POSITIVO
+
+Texto: Ótimo perfume, mas achei um pouco doce.
+Resultado: NEUTRO
+
+Texto: A entrega foi demorada, mas a qualidade do perfume impressionou.
+Resultado: NEUTRO
+
+Texto: Muito demorada a entrega.
+Resultado: NEGATIVO
+
+Texto: Voltarei a comprar outros produtos.
+Resultado: NEUTRO
+

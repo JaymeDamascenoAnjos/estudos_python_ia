@@ -1,0 +1,30 @@
+RELATÓRIO DE ANÁLISE DE FEEDBACK
+==============================
+
+Feedback: O app trava toda vez que tento fazer login.
+Sentimento: Sentimento: NEGATIVO
+----------
+Feedback: A entrega chegou 2 dias antes do prazo, excelente!
+Sentimento: SENTIMENTO: POSITIVO
+----------
+Feedback: O preço é justo, mas a interface poderia ser mais limpa.
+Sentimento: NEUTRO
+----------
+Feedback: Não consigo cancelar minha assinatura pelo site.
+Sentimento: NEGATIVO
+----------
+RELATÓRIO DE ANÁLISE DE FEEDBACK
+==============================
+
+Feedback: O app trava toda vez que tento fazer login.
+Sentimento: Classificação: NEGATIVO.
+----------
+Feedback: A entrega chegou 2 dias antes do prazo, excelente!
+Sentimento: Classificação: POSITIVO.
+----------
+Feedback: O preço é justo, mas a interface poderia ser mais limpa.
+Sentimento: NEUTRO
+----------
+Feedback: Não consigo cancelar minha assinatura pelo site.
+Sentimento: NEGATIVO
+----------
